@@ -74,6 +74,25 @@ id_rsa.pubファイルが公開鍵
 ssh-add -K ~/.ssh/github
 ```
 
+### アプリ
+
+```sh
+# スクリーンショット
+MonoSnap
+
+# IDE
+googleIDE
+
+# Remote Desktop
+Remote Desktop Windows
+
+# SQL Editor
+dbeaver
+### 便利ショートカート
+control + Shift + F
+
+```
+
 
 
 
