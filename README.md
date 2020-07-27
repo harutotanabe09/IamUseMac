@@ -14,7 +14,22 @@ chsh -s /bin/bash
 ### iTerm
 
 ```sh
-Performance -> Profile -> Colors -> Color Presets でインストールしたテーマ適用
+▼　色設定
+iTerm2 -> Performance -> Profile -> Colors -> Color Presets でインストールしたテーマ適用
+
+▼　画面設定
+iTerm2 -> Preferences -> Profiles -> Window -> Settings for New Windows -> Style, Screen, Space
+Style：FullScreen
+Screen：Screen with Cursor
+Space: All Space
+
+▼　ホットキー
+iTerm2 > Preferences > Keys > HotKey > Show/hide iTerm2 with a system-wide hotkeyにチェック
+HotKey: のテキストボックスを選択しRecording状態になったら任意のショートカットを入力
+
+▼　ショットカートキー
+https://qiita.com/0084ken/items/8aefabef4fd3cfdf8fce
+
 ```
 
 ### zsh
@@ -22,6 +37,9 @@ Performance -> Profile -> Colors -> Color Presets でインストールしたテ
 ```sh
 # 設定ファイル
 vi ~/.zshrc
+
+### 設定後
+harutotanabe@HarutonoMacBook-Air [~/Desktop/git] % ls
 
 以下を追加し、一度プロンプトを落として、再度立ち上げる
 ------------------------------------------
@@ -88,16 +106,8 @@ Remote Desktop Windows
 
 # SQL Editor
 dbeaver
+
 ### 便利ショートカート
 control + Shift + F
 
 ```
-
-
-
-
-
-
-
-
-
